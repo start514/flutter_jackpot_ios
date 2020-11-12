@@ -1,16 +1,10 @@
-# jackpot_ios
+# flutter_jackpot_ios
 
-A new Flutter project.
+ios version of jackpot quiz game which appodeal is integrated into
 
-## Getting Started
+## How to build and run the game
+### 1. Run `flutter doctor` to see if ios development environment is set properly.
+Follow the instructions in the verbose output.
+### 2. Run `flutter devices` to see if simulator is running.
+### 3. After checking simulator is running, run `flutter run` to build and run on the simulator.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
